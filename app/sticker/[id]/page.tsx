@@ -1,6 +1,6 @@
 import StickerDetails from './StickerDetails'
 
-export const stickers = {
+  const stickers = {
   'javascript': { name: 'JavaScript', price: 3.99, description: 'Show your love for JavaScript with this sleek sticker.' },
   'python': { name: 'Python', price: 3.99, description: 'Perfect for Python enthusiasts and snake charmers alike.' },
   'react': { name: 'React', price: 4.99, description: 'React to this awesome sticker for your favorite library.' },
